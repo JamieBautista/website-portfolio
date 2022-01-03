@@ -1,0 +1,16 @@
+.navbar-container{
+    font-family: 'nunitobold';
+    margin: 40px 0;
+    font-size: 20px;
+    .navbar-links{
+        display: flex;
+        border: 1px solid #636b6f;
+        border-radius: 10px;
+        padding: 10px;
+        .link{
+            color: $white;
+            margin-right: 20px;
+
+        }
+    }
+}
